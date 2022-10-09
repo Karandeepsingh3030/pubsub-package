@@ -1,0 +1,22 @@
+{
+  "name": "viewlift-pubsub",
+  "version": "1.0.0",
+  "description": "contains the function too manage pubsubb architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karandeepsingh3030/pubsub-package.git"
+  },
+  "keywords": [
+    "pubsub"
+  ],
+  "author": "Karandeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karandeepsingh3030/pubsub-package/issues"
+  },
+  "homepage": "https://github.com/Karandeepsingh3030/pubsub-package#readme"
+}
